@@ -5,6 +5,7 @@ class Humain{
 protected $nom;
 protected $dateInscrit;
 
+const HEURE_TRAVAIL=35;
 
 //on déclare des methodes(fonctions)
 //set sert à définir
@@ -18,6 +19,9 @@ public function getNom(){
 }
 public function getDateInscrit(){
     return $this->dateInscrit;
+}
+public function getSalaire($taux){
+    return $taux *self::HEURE_TRAVAIL;
 }
 
 }

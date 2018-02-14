@@ -28,11 +28,13 @@ $arnaud=new Humain('Arnaud');
 $cecilia->setPostal('74000');
 //on recupere le nom
 echo $cecilia->getNom().'-'.$cecilia->getPostal().'</br>';
-echo 'Crée le '. $arnaud->getDateInscrit();
+echo $cecilia->getSalaire(22).'€</br>';
+echo 'Crée le '. $cecilia->getDateInscrit();
 //$arnaud->setNom('Arnaud');
 //on recupere le nom
 //echo $arnaud->getNom();
 echo '<br>'.$arnaud->getNom().'<br>';
+echo $arnaud->getSalaire(5).'€ </br>';
 echo 'Crée le '. $arnaud->getDateInscrit();
 ?>
 </body>

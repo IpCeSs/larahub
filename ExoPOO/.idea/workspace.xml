@@ -4,7 +4,7 @@
     <list default="true" id="62d82e78-03c7-4400-b41f-51c55ae79386" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/cours.php" afterPath="$PROJECT_DIR$/cours.php" />
-      <change beforePath="$PROJECT_DIR$/francais.class.php" afterPath="$PROJECT_DIR$/francais.class.php" />
+      <change beforePath="$PROJECT_DIR$/humain.class.php" afterPath="$PROJECT_DIR$/humain.class.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,8 +20,8 @@
           <file leaf-file-name="cours.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/cours.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="374">
-                  <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+                <state relative-caret-position="286">
+                  <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
                   <folding />
                 </state>
               </provider>
@@ -31,21 +31,21 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="francais.class.php" pinned="false" current-in-tab="true">
+          <file leaf-file-name="francais.class.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/francais.class.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="286">
-                  <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+                  <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="humain.class.php" pinned="false" current-in-tab="false">
+          <file leaf-file-name="humain.class.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/humain.class.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="418">
-                  <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+                <state relative-caret-position="506">
+                  <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
                   <folding />
                 </state>
               </provider>
@@ -61,9 +61,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/francais.class.php" />
         <option value="$PROJECT_DIR$/humain.class.php" />
         <option value="$PROJECT_DIR$/cours.php" />
-        <option value="$PROJECT_DIR$/francais.class.php" />
       </list>
     </option>
   </component>
@@ -222,7 +222,7 @@
       <option name="presentableId" value="Default" />
       <updated>1518603342044</updated>
       <workItem from="1518603343152" duration="337000" />
-      <workItem from="1518614724415" duration="6357000" />
+      <workItem from="1518614724415" duration="7098000" />
     </task>
     <task id="LOCAL-00001" summary="travail sur poo">
       <created>1518622221175</created>
@@ -231,11 +231,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518622221175</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="travail sur poo2">
+      <created>1518623246566</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1518623246566</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6722000" />
+    <option name="totallyTimeSpent" value="7463000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -252,9 +259,9 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.50319827" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.4968017" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10127932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -305,7 +312,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="travail sur poo" />
-    <option name="LAST_COMMIT_MESSAGE" value="travail sur poo" />
+    <MESSAGE value="travail sur poo2" />
+    <option name="LAST_COMMIT_MESSAGE" value="travail sur poo2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -339,26 +347,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/class.humain.php" />
     <entry file="file://$PROJECT_DIR$/class.humain.php" />
+    <entry file="file://$PROJECT_DIR$/francais.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/humain.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        <state relative-caret-position="506">
+          <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cours.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/francais.class.php">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
           <folding />
         </state>
       </provider>
