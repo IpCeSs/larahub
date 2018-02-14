@@ -7,18 +7,33 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 </head>
-<body>
+<br>
 <h1>Travail sur les classes POO</h1>
 <?php
 //On inclus le fichier qui contient nos classes
 include('humain.class.php');
+include('francais.class.php');
 //on ajoute une nouvelle instance à Humain, qu'il faut stocker dans une variable afin
 //de pouvoir la manipuler et y accéder
-$cecilia=new Humain();
-$arnaud=new Humain();
+$cecilia=new francais('Cécilia');
+$arnaud=new Humain('Arnaud');
 //on ajoute de s valeurs à la variable publique $nom de la classe
-$cecilia->nom='Cécilia';
-$arnaud->nom='Arnaud';
+//$cecilia->nom='Cécilia';
+//$arnaud->nom='Arnaud';
+
+//autre exemple, on applle les functions crées (nb. $nom est passé
+//en private donc inutilisable seul ici
+//on set le nom
+//$cecilia->setNom('Cécilia');
+$cecilia->setPostal('74000');
+//on recupere le nom
+echo $cecilia->getNom().'-'.$cecilia->getPostal().'</br>';
+echo $cecilia->getDateInscrit().'<br>';
+//$arnaud->setNom('Arnaud');
+//on recupere le nom
+//echo $arnaud->getNom();
+echo $arnaud->getNom().'<br>';
+echo $arnaud->getDateInscrit();
 ?>
 </body>
 </html>
