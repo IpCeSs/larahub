@@ -22,7 +22,7 @@ $cecilia = new moi();
 $arnaud = new moi('');
 
 //on ajoute de s valeurs à la variable publique $nom de la classe
-/*$cecilia->nom='Cécilia';
+//$cecilia->nom='Cécilia';
 //$arnaud->nom='Arnaud';*/
 
 //autre exemple, on applle les functions crées (nb. $nom est passé
